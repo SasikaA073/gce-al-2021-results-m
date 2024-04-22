@@ -15,7 +15,7 @@ The given number should be mentioned in the first line of the index_rounds
 
 
 To initalize fetching first and second shy results : 200172101817
-To initalize fetching third shy restuls : 200150702291
+To initalize fetching third shy results : 200150702291
 
     
 
