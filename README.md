@@ -1,5 +1,7 @@
 # 2021 AL Results Fetching and Analysis
 
+inspired by [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)'s `keepgrabbing.py`
+
 ## 2021_AL Directory structure
 
 > **Analysis** : The folder where the Analysis of results happen \
